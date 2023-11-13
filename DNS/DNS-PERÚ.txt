@@ -1,0 +1,7 @@
+200.108.96.213	dns2.amx.com.pe
+200.108.96.212	dns1.amx.com.pe
+200.11.52.202	ficus.ulima.edu.pe
+200.48.225.146	cachesis.tdp.net.pe
+200.48.225.130	cachewas.tdp.net.pe
+181.176.242.34	pdns1.viettelperu.com.pe
+181.176.242.35	pdns2.viettelperu.com.pe
